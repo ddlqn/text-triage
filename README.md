@@ -25,7 +25,7 @@ Der Server wird dann wie folgt gestartet:
 
 ## ML-Modell
 Das ML-Modell wird dem API als Parameter übergeben. Die Datei 
-`linear_regression_modl.joblib` wird im Jupyter notebook `ml_triage.ipynb` 
+`linear_regression_model.joblib` wird im Jupyter notebook `ml_triage.ipynb` 
 trainiert und erstellt. Ich habe mich hier aus Zeitgründen für ein einfaches 
 Linear Regression-Modell entschieden, auch wenn es für die Daten wohl nicht 
 optimal ist. Das API sollte aber auch ein anderes Modell laden können.
